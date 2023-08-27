@@ -13,7 +13,7 @@ const ImageCard = (props) => {
     <Card.Body>
       <Card.Title>{props.Title}</Card.Title>
       <Card.Text>
-        Some quick example text to build on the card title and make up the
+        Some quick example text to build on the card title and make up.
         bulk of the card's content.
       </Card.Text>
       <Button variant="primary" onClick={handleClick}>Go somewhere</Button>
