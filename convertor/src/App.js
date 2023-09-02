@@ -3,7 +3,7 @@ import Temperature from './Temperature';
 
 function App() {
   return (
-    <div>
+    <div class="c">
     <Temperature/>
     </div>
   );

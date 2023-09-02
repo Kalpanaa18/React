@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.c{
+  height: 200px;
+  width:300px;
+  margin: auto;
+  border: 2px dashed black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  background-color: bisque;
+}
